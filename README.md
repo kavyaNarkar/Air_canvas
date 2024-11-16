@@ -85,8 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, feel free to reach out:
 
-- Your Name - [@narkarp.kavya@gmail.com](https://twitter.com/yourusername) 
+- Your Name - [@narkarp.kavya@gmail.com](https://gmail.com/@narkarp.kavya@gmail.com) 
 
 ---
 
-Feel free to replace placeholders such as `yourusername` and `email@example.com` with your actual information. Additionally, if there are any specific features or functionalities unique to your application, make sure to highlight those in the README as well!
