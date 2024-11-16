@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, feel free to reach out:
 
-- Your Name - [@narkarp.kavya@gmail.com](https://gmail.google.com/@narkarp.kavya@gmail.com) 
+- Your Name - [@narkarp.kavya@gmail.com](https://gmail.google.com/narkarp.kavya@gmail.com) 
 
 ---
 
